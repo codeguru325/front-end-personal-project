@@ -35,3 +35,4 @@ This JavaScript application allows users to explore information about countries 
 - Country data is fetched from a public API, specifically: `https://restcountries.com/v3.1/all`.
 
 Feel free to explore and learn more about different countries using this interactive application!
+link to my project on GitHub pages: https://codeguru325.github.io/front-end-personal-project/
