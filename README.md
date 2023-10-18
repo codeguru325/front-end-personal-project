@@ -12,17 +12,17 @@ This JavaScript application allows users to explore information about countries 
 
 -Country Cards: Each country is represented by a card containing key information, including its name, region, capital, and population. Clicking on a card expands it to reveal additional details about the selected country.
 
--Additional Information: When a card is expanded, you can find extra information about the country, such as its car sign, timezones, sub-region, and continents.
+-Additional Information: When a card is expanded, you can find extra information about the country, such as its car sign, time zones, sub-region, and continents. Meanwhile, refresh your browser to go back to the main page, I am however working on a back button to facilitate easier navigation.
 
  How to Use
 
 1. Dark Mode Toggle: Click the moon/sun icon in the top-right corner to switch between dark and light modes.
 
-2. Filter by Region: Use the dropdown menu on the top-left to select a region. The displayed countries will update to match the selected region.
+2. Filter by Region: Use the dropdown menu on the top-left to select a region. The displayed countries will be updated to match the selected region.
 
 3. Search by Name: In the search bar on the top-right, enter the name of a country you'd like to find. The displayed countries will dynamically filter as you type.
 
-4. View Detailed Information:Click on a country card to view more detailed information about that country, including additional data.
+4. View Detailed Information: Click on a country card to view more detailed information about that country, including additional data.
 
 5. Technologies Used
 
